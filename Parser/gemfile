@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'rubygems'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'sqlite3'
+gem 'mechanize'
+gem 'net/http'
+gem 'restclient'
